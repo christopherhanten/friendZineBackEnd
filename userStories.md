@@ -40,7 +40,11 @@ As a USER
 I WANT TO to see a menu option
 SO THAT I can navigate through friendZine.
 
+<<<<<<< HEAD
 <b>STRETCHGOALS</b>
+=======
+<<STRETCHGOALS>>
+>>>>>>> 07f56f2c4c7c5705f7aef19a4126874ae89b8dfb
 
 As a USER
 I WANT TO be able to add photos to the conversation
