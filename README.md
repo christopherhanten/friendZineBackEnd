@@ -4,5 +4,5 @@
 <b>Back-End Technologies</b><br/>
 MongoDb: Database<br/>
 Express.js: Server<br/>
-Node.js: Backend framnework<br/>
+Node.js: Backend framework<br/>
 Bcrypt: Authentication and sign on<br/>
