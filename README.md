@@ -13,3 +13,5 @@ MongoDb: Database<br/>
 Express.js: Server<br/>
 Node.js: Backend framework<br/>
 Bcrypt: Authentication and sign on<br/>
+
+friendZineBackEnd/wireframes.png
