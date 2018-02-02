@@ -30,7 +30,7 @@ As a USER
 I WANT TO to see a menu option
 SO THAT I can navigate through friendZine.
 
-<<STRETCH>>
+<<STRETCHGOALS>>
 
 As a USER
 I WANT TO be able to add photos to the conversation
