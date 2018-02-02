@@ -4,7 +4,7 @@
 * <b>friendZine</b>: The name of the application<br/>
 * <b>USER</b>: a visitor to the app's site<br/>
 * <b>Conversation</b>: The feed of all of the comments, music, and links         provided by USERs. Also, the instance of the friendZine app.<br/>
-* <b>Group</b>: the USERs who are invite to participate in a specific Conversation.<br/>
+* <b>Group</b>: the USERs who are invite to participate in a specific Conversation.<br/><br/>
 
 
 <b>GOALS</b><br/>
