@@ -19,5 +19,5 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.pn
 <br/><br/>
 
 <b>Some pseudocoding and relationship mapping</b><br/>
-
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png
 
