@@ -1,6 +1,6 @@
 <h1>friendZine</h1>
 
-<b>Key Terms</b>
+<b>Key Terms</b><br/>
 <b>friendZine</b>: The name of the application
 <b>USER</b>: a visitor to the app's site
 <b>Conversation</b>: The feed of all of the comments, music, and links provided by USERs. Also, the instance of the friendZine app.
