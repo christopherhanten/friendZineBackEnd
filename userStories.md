@@ -16,7 +16,7 @@ As a USER
 I WANT TO be able to log in
 SO THAT I can take part in the conversation as me.
 
-As a USERI
+As a USER
 I WANT TO be able to see the conversation
 SO THAT I can read what has been posted already.
 
