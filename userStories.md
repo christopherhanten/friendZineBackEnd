@@ -1,3 +1,13 @@
+<h1>friendZine</h1>
+
+<b>Key Terms</b>
+<b>friendZine</b>: The name of the application
+<b>USER</b>: a visitor to the app's site
+<b>Conversation</b>: The feed of all of the comments, music, and links provided by USERs. Also, the instance of the friendZine app.
+<b>Group</b>: the USERs who are invite to participate in a specific Conversation.
+
+
+<b>GOALS</b>
 As a USER
 I WANT TO to invited to friendZine
 SO THAT I can take part in a conversation.
@@ -30,7 +40,7 @@ As a USER
 I WANT TO to see a menu option
 SO THAT I can navigate through friendZine.
 
-<<STRETCH>>
+<b>STRETCHGOALS</b>
 
 As a USER
 I WANT TO be able to add photos to the conversation
