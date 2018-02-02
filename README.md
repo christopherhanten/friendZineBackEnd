@@ -13,6 +13,11 @@ MongoDb: Database<br/>
 Express.js: Server<br/>
 Node.js: Backend framework<br/>
 
+<b>Front-End Technogies</b><br/>
+React.js<br/>
+Bootstrap<br/>
+HTML/CSS<br/>
+<b>Flexbox</b><br/>
 <b>Stretch</b><br/>
 Bcrypt: Authentication and sign on<br/><br/>
 
