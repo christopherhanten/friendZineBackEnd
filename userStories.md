@@ -1,13 +1,13 @@
 <h1>friendZine</h1>
 
 <b>Key Terms</b><br/>
-<b>friendZine</b>: The name of the application
-<b>USER</b>: a visitor to the app's site
-<b>Conversation</b>: The feed of all of the comments, music, and links provided by USERs. Also, the instance of the friendZine app.
-<b>Group</b>: the USERs who are invite to participate in a specific Conversation.
+<b>friendZine</b>: The name of the application<br/>
+<b>USER</b>: a visitor to the app's site<br/>
+<b>Conversation</b>: The feed of all of the comments, music, and links provided by USERs. Also, the instance of the friendZine app.<br/>
+<b>Group</b>: the USERs who are invite to participate in a specific Conversation.<br/>
 
 
-<b>GOALS</b>
+<b>GOALS</b><br/>
 As a USER
 I WANT TO to invited to friendZine
 SO THAT I can take part in a conversation.
@@ -40,11 +40,7 @@ As a USER
 I WANT TO to see a menu option
 SO THAT I can navigate through friendZine.
 
-<<<<<<< HEAD
-<b>STRETCHGOALS</b>
-=======
-<<STRETCHGOALS>>
->>>>>>> 07f56f2c4c7c5705f7aef19a4126874ae89b8dfb
+<b>STRETCHGOALS</b><br/>
 
 As a USER
 I WANT TO be able to add photos to the conversation
