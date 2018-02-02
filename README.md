@@ -14,4 +14,5 @@ Express.js: Server<br/>
 Node.js: Backend framework<br/>
 Bcrypt: Authentication and sign on<br/>
 
-friendZineBackEnd/wireframes.png
+Initial and MVP wireframes:
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.png?raw=true
