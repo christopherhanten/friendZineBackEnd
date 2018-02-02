@@ -17,7 +17,7 @@ Node.js: Backend framework<br/>
 React.js<br/>
 Bootstrap<br/>
 HTML/CSS<br/>
-<b>Flexbox</b><br/>
+Flexbox</b><br/><br/>
 <b>Stretch</b><br/>
 Bcrypt: Authentication and sign on<br/><br/>
 
