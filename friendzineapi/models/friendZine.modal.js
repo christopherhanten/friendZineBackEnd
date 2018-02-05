@@ -1,8 +1,8 @@
-var mongoose = require('mongoose');
+var mongoose  = require('mongoose');
 
 var NoteSchema = mongoose.Schema({
-    title: String,
-    content: String
+    content   : String,
+    link      : String
 }, {
     timestamps: true
 });

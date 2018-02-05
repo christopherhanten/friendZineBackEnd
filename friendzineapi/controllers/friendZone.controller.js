@@ -1,6 +1,6 @@
 var Note = require('../models/comment.model.js');
 
-exports.create = function(req, res) {
+exports.create   = function(req, res) {
     // Create and Save a new Note
     if(!req.body.content) {
         res.status(400).send({message: "Comment can not be empty"});
@@ -38,7 +38,7 @@ exports.findOne = function(req, res) {
     });
 };
 
-exports.update = function(req, res) {
+exports.update  = function(req, res) {
     // Update a comment identified by the commentId in the request
     Comment.findById(req.params.commentId, function(err, comment) {
         if(err) {
@@ -57,7 +57,7 @@ exports.update = function(req, res) {
     });
 };
 
-exports.delete = function(req, res) {
+exports.delete  = function(req, res) {
     // Delete a note with the specified noteId in the request
     Comment.remove({_id: req.params.commentId}, function(err, data) {
         if(err) {
