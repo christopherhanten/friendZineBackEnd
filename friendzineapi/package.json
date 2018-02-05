@@ -3,11 +3,25 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node app.js"
   },
   "dependencies": {
     "body-parser": "~1.13.2",
     "cookie-parser": "~1.3.5",
-    "express": "~4.13.1"
-  }
+    "express": "~4.13.1",
+    "mongoose": "^5.0.3",
+    "nodemon": "^1.14.12"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherhanten/friendZineBackEnd.git"
+  },
+  "author": "chanten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherhanten/friendZineBackEnd/issues"
+  },
+  "homepage": "https://github.com/christopherhanten/friendZineBackEnd#readme",
+  "description": ""
 }
