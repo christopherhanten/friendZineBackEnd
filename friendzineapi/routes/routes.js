@@ -1,0 +1,19 @@
+module.exports = function(app) {
+
+    var Comment = require('../controllers/comment.controller.js');
+
+    // Create a new Note
+    app.post('/comments', comment.create);
+
+    // Retrieve all Notes
+    app.get('/comments', comment.findAll);
+
+    // Retrieve a single Note with noteId
+    app.get('/comments/:commentId', comment.findOne);
+
+    // Update a Note with noteId
+    app.put('/comments/:commentId', comment.update);
+
+    // Delete a Note with noteId
+    app.delete('/comment/:commentId', comment.delete);
+}

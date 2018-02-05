@@ -1,9 +1,9 @@
 var express = require('express');
 var router = express.Router();
 
-/* GET users listing. */
+/* GET Conversation. */
 router.get('/', function(req, res, next) {
-  res.json({users: [{name: 'Timmy'}]});
+  res.json({comment: [{name: 'Timmy'}]});
 });
 
 module.exports = router;
