@@ -13,6 +13,7 @@ app.use(cookieParser())
 
 var dbConfig     = require('./config/database.config.js');
 var mongoose     = require('mongoose');
+var comments     = require('./controllers/friendZine.controller.js');
 
 mongoose.connect(dbConfig.url, {
     useMongoClient: true
@@ -47,6 +48,6 @@ app.listen(3000, function(){
     console.log("Server is listening on port 3000");
 });
 
-app.use('/api/v1/comment', comments);
+app.use('/api/v1/comment', Comment);
 
 module.exports  = app;

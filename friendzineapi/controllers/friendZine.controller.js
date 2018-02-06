@@ -1,4 +1,4 @@
-var Note = require('../models/comment.model.js');
+var Comment = require('../models/comment.model.js');
 
 exports.create   = function(req, res) {
     // Create and Save a new Note
@@ -67,3 +67,4 @@ exports.delete  = function(req, res) {
         }
     });
 };
+module.exports = friendZine.controller;
