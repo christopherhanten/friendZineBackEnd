@@ -14,6 +14,23 @@ app.use(cookieParser())
 var dbConfig     = require('./config/database.config.js');
 var mongoose     = require('mongoose');
 var comments     = require('./controllers/friendZine.controller.js');
+let ENV;
+
+try {
+  ENV = require('./env');
+} catch (ex) {
+  ENV = process.env;
+}
+const app = express();
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  res.header("Access-Control-Allow-Methods", "POST, GET, OPTIONS, PUT, DELETE");
+  next();
+});
+
+mongoose.connect(ENV.MONGODB_URI);
+
 
 mongoose.connect(dbConfig.url, {
     useMongoClient: true
@@ -28,10 +45,8 @@ mongoose.connection.once('open', function() {
     console.log("Successfully connected to the database");
 })
 
-// parse requests of content-type - application/json
-app.use(bodyParser.json())
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(cookieParser())
+
+
 
 // // define a simple route
 // app.get('/', function(req, res){
