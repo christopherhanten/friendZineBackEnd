@@ -45,6 +45,14 @@ mongoose.connection.once('open', function() {
     console.log("Successfully connected to the database");
 })
 
+// listen for requests
+app.listen(3000, function(){
+    console.log("Server is listening on port 3000");
+});
+
+app.use('/api/v1/comment', Comment);
+
+module.exports  = app;
 
 
 
@@ -59,12 +67,3 @@ mongoose.connection.once('open', function() {
 // require('./app/routes/note.routes.js')(app);
 //
 // // ........
-
-// listen for requests
-app.listen(3000, function(){
-    console.log("Server is listening on port 3000");
-});
-
-app.use('/api/v1/comment', Comment);
-
-module.exports  = app;
