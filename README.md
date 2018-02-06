@@ -12,6 +12,7 @@ I feel that the main pain point will initializing the sign in / sign out functio
 MongoDb: Database<br/>
 Express.js: Server<br/>
 Node.js: Backend framework<br/>
+MLabs: to get backend initially connected<br/>
 
 <b>Front-End Technogies</b><br/>
 React.js<br/>
@@ -27,4 +28,3 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.pn
 
 <b>Some pseudocoding and relationship mapping</b><br/>
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png?raw=true
-
