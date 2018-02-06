@@ -2,7 +2,7 @@ var express      = require('express');
 var path         = require('path');
 var cookieParser = require('cookie-parser');
 var bodyParser   = require('body-parser');
-//var dbConfig     = require('./config/database.config.js');
+var dbConfig     = require('./config/database.config.js');
 var mongoose     = require('mongoose');
 var Comment      = require('./controllers/friendZine.controller.js');
 var users        = require('./routes/users');
@@ -17,9 +17,9 @@ try {
 
 const app = express();
 //const url = process.env.MONGOLAB_URI;
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(cookieParser())
+  app.use(bodyParser.json());
+  app.use(bodyParser.urlencoded({ extended: false }));
+  app.use(cookieParser())
 
 
 

@@ -1,3 +1,3 @@
-// module.exports = {
-//     url: 'mongodb://localhost:27017/friendzine'
-// }
+module.exports = {
+    url: 'https://friendzine.herokuapp.com/'
+}
