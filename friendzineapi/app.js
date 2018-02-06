@@ -30,6 +30,8 @@ mongoose.connection.once('open', function() {
 
 // parse requests of content-type - application/json
 app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(cookieParser())
 
 // // define a simple route
 // app.get('/', function(req, res){
