@@ -1,10 +1,10 @@
 var mongoose  = require('mongoose');
+let Schema = mongoose.Schema;
 
-var CommentSchema = mongoose.Schema({
+var CommentSchema = new Schema({
     comment   : String,
     link      : String
-}, {
-    timestamps: true
+    // timestamps: true
 });
 
 const Comment = mongoose.model('Comment', CommentSchema);

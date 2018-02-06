@@ -4,7 +4,7 @@ const models = require('../models');
 
 module.exports = function(app) {
 
-    var Comment = require('../controllers/comment.controller.js');
+    var comment = require('../controllers/comment.controller.js');
 
     // Create a new Note
     app.post('/comments', comment.create);
