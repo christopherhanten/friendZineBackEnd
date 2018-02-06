@@ -1,3 +1,3 @@
 module.exports = {
-    url: 'mongodb://localhost:27017/friendzineapi'
+    url: 'mongodb://localhost:27017/friendzine'
 }

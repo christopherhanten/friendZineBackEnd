@@ -4,8 +4,8 @@ var cookieParser = require('cookie-parser');
 var bodyParser   = require('body-parser');
 var dbConfig     = require('./config/database.config.js');
 var mongoose     = require('mongoose');
-var Comment     = require('./controllers/friendZine.controller.js');
-var users = require('./routes/users');
+var Comment      = require('./controllers/friendZine.controller.js');
+var users        = require('./routes/users');
 
 const app = express();
 const url = process.env.MONGOLAB_URI;
@@ -59,17 +59,3 @@ app.listen(process.env.PORT || 3000);
 app.use('/api/v1/comment', Comment);
 
 module.exports  = app;
-
-
-
-// // define a simple route
-// app.get('/', function(req, res){
-//     res.json({"message": "friendZine. Taking out network back!"});
-// });
-//
-// // ........
-//
-// // Require Notes routes
-// require('./app/routes/note.routes.js')(app);
-//
-// // ........
