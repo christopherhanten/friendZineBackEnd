@@ -17,7 +17,8 @@ I feel that the main pain point will initializing the sign in / sign out functio
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.png?raw=true
 <br/><br/>
 <b>Some pseudocoding and relationship mapping</b><br/>
-https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png?raw=true<br/><br/>
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png?raw=true<br/>
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/>
 
 
 
