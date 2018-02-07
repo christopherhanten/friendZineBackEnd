@@ -34,7 +34,7 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br
 |PUT|/comment|
 |DELETE|/comment|
 
-<br/><br/>
+<br/>
 <b>Back-End Technologies</b><br/>
 MongoDb: Database<br/>
 Express.js: Server<br/>
