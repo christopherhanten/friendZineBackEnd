@@ -27,7 +27,7 @@ Bootstrap<br/>
 HTML/CSS<br/>
 Flexbox</b><br/>
 Surge: For front end hosting <br/><br/>
-<i>stretch goal</i> Bcrypt: Authentication and sign on<br/><br/>
+<i>stretch goal</i><br/> Bcrypt: Authentication and sign on<br/><br/>
 
 <b>Initial and MVP wireframes:</b><br/>
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.png?raw=true
