@@ -21,20 +21,6 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/newss.jpg<br/>
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/><br/>
 
-<b>ROUTES</b><br/>
-
-|HHTP|route|
-|:-----|:-------|
-|GET |/index|
-|POST|/index|
-|GET|/addMusic|
-|POST|/addMusic|
-|GET|/addLink|
-|POST|/addLink|
-|PUT|/comment|
-|DELETE|/comment|
-
-<br/>
 <b>Back-End Technologies</b><br/>
 MongoDb: Database<br/>
 Express.js: Server<br/>
@@ -50,5 +36,15 @@ Flexbox</b><br/>
 Surge: For front end hosting <br/><br/>
 <i>stretch goal</i><br/> Bcrypt: Authentication and sign on<br/><br/>
 
+<b>ROUTES</b><br/>
 
-
+|HHTP|route|
+|:-----|:-------|
+|GET |/index|
+|POST|/index|
+|GET|/addMusic|
+|POST|/addMusic|
+|GET|/addLink|
+|POST|/addLink|
+|PUT|/comment|
+|DELETE|/comment|
