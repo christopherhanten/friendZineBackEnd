@@ -12,7 +12,14 @@ The <b>minimum viable product</b> for this application will consist the Conversa
 I feel that the main pain point will initializing the sign in / sign out functionality.
 
 <b>Trello:</b> https://trello.com/b/NWAYqh3P/friendzine <br/>
-<b>User Stories:</b> https://github.com/christopherhanten/friendZineBackEnd/blob/master/userStories.md<br/><br/>
+<b>User Stories:</b> https://github.com/christopherhanten/friendZineBackEnd/blob/master/userStories.md<br/>
+<b>Initial and MVP wireframes:</b><br/>
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.png?raw=true
+<br/>
+<b>Some pseudocoding and relationship mapping</b><br/>
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png?raw=true
+
+
 
 <b>Back-End Technologies</b><br/>
 MongoDb: Database<br/>
@@ -29,9 +36,5 @@ Flexbox</b><br/>
 Surge: For front end hosting <br/><br/>
 <i>stretch goal</i><br/> Bcrypt: Authentication and sign on<br/><br/>
 
-<b>Initial and MVP wireframes:</b><br/>
-https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.png?raw=true
-<br/><br/>
 
-<b>Some pseudocoding and relationship mapping</b><br/>
-https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png?raw=true
+
