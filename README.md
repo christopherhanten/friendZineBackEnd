@@ -18,7 +18,8 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.pn
 <br/><br/>
 <b>Some pseudocoding and relationship mapping</b><br/>
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png?raw=true<br/>
-https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/>
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/newss.jpg<br/>
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/><br/>
 
 
 
