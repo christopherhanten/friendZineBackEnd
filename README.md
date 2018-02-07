@@ -40,7 +40,7 @@ MongoDb: Database<br/>
 Express.js: Server<br/>
 Node.js: Backend framework<br/>
 MLabs: To get backend initially connected<br/>
-Heroku: Host up the backend
+Heroku: Host up the backend<br/><br/>
 
 <b>Front-End Technogies</b><br/>
 React.js<br/>
