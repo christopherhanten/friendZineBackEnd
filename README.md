@@ -9,7 +9,7 @@ The target user for this application is someone who already uses other social me
 
 The <b>minimum viable product</b> for this application will consist the Conversation, a comment text field, complete with submit button, a music button, a link button, a menu icon, and a sign out button.<br/><br/>
 
-I feel that the main pain point will initializing the sign in / sign out functionality.
+A stretch goal is to implement sign in / sign out functionality.
 
 <b>Trello:</b> https://trello.com/b/NWAYqh3P/friendzine <br/><br/>
 <b>User Stories:</b> https://github.com/christopherhanten/friendZineBackEnd/blob/master/userStories.md<<br/><br/>
