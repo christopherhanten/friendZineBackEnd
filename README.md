@@ -25,8 +25,8 @@ Heroku: Host up the backend
 React.js<br/>
 Bootstrap<br/>
 HTML/CSS<br/>
-Flexbox</b><br/><br/>
-Surge: For front end hosting <br/>
+Flexbox</b><br/>
+Surge: For front end hosting <br/><br/>
 <i>stretch goal</i>Bcrypt: Authentication and sign on<br/><br/>
 
 <b>Initial and MVP wireframes:</b><br/>
