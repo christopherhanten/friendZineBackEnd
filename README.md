@@ -22,6 +22,16 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/newss.jpg<br/
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/><br/>
 
 
+|HHTP|route|
+|GET |/index|
+|POST|/index|
+|GET|/addMusic|
+|POST|/addMusic|
+|GET|/addLink|
+|POST|/addLink|
+|PUT|/comment|
+|DELETE|/comment|
+
 
 <b>Back-End Technologies</b><br/>
 MongoDb: Database<br/>
