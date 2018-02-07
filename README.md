@@ -23,6 +23,7 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br
 
 
 |HHTP|route|
+|-----|-------|
 |GET |/index|
 |POST|/index|
 |GET|/addMusic|
