@@ -31,5 +31,5 @@ module.exports = function(app) {
     app.get('/addLink' (req,res) {
       res.render('/addLink')
     });
-    app.post('/addLink', comment.create); 
+    app.post('/addLink', comment.create);   
 }
