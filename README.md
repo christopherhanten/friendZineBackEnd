@@ -21,6 +21,7 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/newss.jpg<br/>
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/><br/>
 
+<b>ROUTES</b><br/>
 
 |HHTP|route|
 |-----|-------|
@@ -32,7 +33,7 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br
 |POST|/addLink|
 |PUT|/comment|
 |DELETE|/comment|
-
+<br/><br/>
 
 <b>Back-End Technologies</b><br/>
 MongoDb: Database<br/>
