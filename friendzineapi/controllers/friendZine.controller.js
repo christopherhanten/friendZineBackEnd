@@ -20,6 +20,32 @@ router.post('/api/comments', function(req, res) {
     res.json(comment)
   })
 })
+router.get('/api/addMusic', function(req, res){
+  Comment.find({}).then(eachOne => {
+    res.json(eachOne);
+  })
+})
+router.post('/api/addMusic', function(req, res) {
+  Comment.create({
+    comment: req.body.comment,
+    link: req.body.link,
+  }).then(comment => {
+    res.json(comment)
+  })
+})
+router.get('/api/addLink', function(req, res){
+  Comment.find({}).then(eachOne => {
+    res.json(eachOne);
+  })
+})
+router.post('/api/addLink', function(req, res) {
+  Comment.create({
+    comment: req.body.comment,
+    link: req.body.link,
+  }).then(comment => {
+    res.json(comment)
+  })
+})
 
 module.exports = router;
 exports.create   = function(req, res) {
