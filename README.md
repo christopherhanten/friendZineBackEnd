@@ -9,7 +9,9 @@ The target user for this application is someone who already uses other social me
 
 The <b>minimum viable product</b> for this application will consist the Conversation, a comment text field, complete with submit button, a music button, a link button, a menu icon, and a sign out button.<br/><br/>
 
-A stretch goal is to implement sign in / sign out functionality.
+A stretch goal is to implement sign in / sign out functionality.<br/>
+______________________________________________________________________________________________________________________________
+<b>PLANS</b><br/><br/>
 
 <b>Trello:</b> https://trello.com/b/NWAYqh3P/friendzine <br/><br/>
 <b>User Stories:</b> https://github.com/christopherhanten/friendZineBackEnd/blob/master/userStories.md<<br/><br/>
@@ -21,6 +23,7 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/newss.jpg<br/>
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/><br/>
 
+______________________________________________________________________________________________________________________________
 <b>Back-End Technologies</b><br/>
 MongoDb: Database<br/>
 Express.js: Server<br/>
@@ -36,6 +39,7 @@ Flexbox</b><br/>
 Surge: For front end hosting <br/><br/>
 <i>stretch goal</i><br/> Bcrypt: Authentication and sign on<br/><br/>
 
+______________________________________________________________________________________________________________________________
 <b>ROUTES</b><br/>
 
 |HHTP|route|
