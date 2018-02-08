@@ -1,5 +1,15 @@
+<h1>friendZine</h1>
+
+<b>Key Terms:</b><br/>
+<b>User</b>              : Human interatcting with the application<br/>
+<b>Conversation</b>      : The place where all inputs to the application are rendered.<br/>
+<b>Comment</b>           : The basic input type.<br/>
+<b>Comment with link</b> : An input type that allows for a Comment w/ a specified output of URL.<br/>
+<b>Get URL</b>           : A way for the User to share the URL of the specific instance of friendZine with others.<br/>
+
+______________________________________________________________________________________________________________________________
 <b>Concept</b><br/><br/>
-<b>friendZine</b> is a Facebook-like application for small groups, with a predetermined membership. The User will log in to share comments, ideas, pictures, links, and what they are listening to, watching or reading. The main component of the application is called the Conversation. It is a feed of all of the inputs given to the app. The User can add to the conversation by directly adding comments in a provided field. They can also click icons for music, reading, tv, and links, to add them to the conversation.<br/><br/>
+<b>friendZine</b> is a Facebook-like application for small groups, with a predetermined membership. The User will log in to share Comments, ideas, pictures, links, and what they are listening to, watching or reading. The main component of the application is called the Conversation. It is a feed of all of the inputs given to the app. The User can add to the Conversation by directly adding Comments in a provided field. They can also click icons for music, reading, tv, and links, to add them to the Conversation.<br/><br/>
 
 <b> A note about this app</b><br/>
 There are any number of apps like Slack, Hangouts, Zoom or UberConference, or Facebook itself, obviously,  that can handle the functionality that I am offering with friendZine. The difference lies in the idea that we can talk to our friends and family without all of the advertising, without of of the interest tracking. With friendZine you have a place to go to simply communicate with those you care about. This has lead to the tagline: "Taking Our Network Back."<br/><br/>
@@ -9,7 +19,9 @@ The target user for this application is someone who already uses other social me
 
 The <b>minimum viable product</b> for this application will consist the Conversation, a comment text field, complete with submit button, a music button, a link button, a menu icon, and a sign out button.<br/><br/>
 
-I feel that the main pain point will initializing the sign in / sign out functionality.
+A stretch goal is to implement sign in / sign out functionality.<br/>
+______________________________________________________________________________________________________________________________
+<b>Plans</b><br/><br/>
 
 <b>Trello:</b> https://trello.com/b/NWAYqh3P/friendzine <br/><br/>
 <b>User Stories:</b> https://github.com/christopherhanten/friendZineBackEnd/blob/master/userStories.md<<br/><br/>
@@ -19,8 +31,31 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.pn
 <b>Some pseudocoding and relationship mapping</b><br/>
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png?raw=true<br/>
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/newss.jpg<br/>
-https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/><br/>
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/>
 
+<b>Code</b><br/>
+Backend:<br/>
+https://github.com/christopherhanten/friendZineBackEnd<br/>
+Frontend<br/>
+https://github.com/christopherhanten/friendZineFrontEnd<br/><br/>
+
+______________________________________________________________________________________________________________________________
+<b>Back-End Technologies</b><br/>
+MongoDb: Database<br/>
+Express.js: Server<br/>
+Node.js: Backend framework<br/>
+MLabs: To get backend initially connected<br/>
+Heroku: Host up the backend<br/><br/>
+
+<b>Front-End Technogies</b><br/>
+React.js<br/>
+Bootstrap<br/>
+HTML/CSS<br/>
+Flexbox</b><br/>
+Surge: For frontend hosting <br/><br/>
+<i>stretch goal</i><br/> Bcrypt: Authentication and sign on<br/><br/>
+
+______________________________________________________________________________________________________________________________
 <b>ROUTES</b><br/>
 
 |HHTP|route|
@@ -34,21 +69,14 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br
 |PUT|/comment|
 |DELETE|/comment|
 
-<br/>
-<b>Back-End Technologies</b><br/>
-MongoDb: Database<br/>
-Express.js: Server<br/>
-Node.js: Backend framework<br/>
-MLabs: To get backend initially connected<br/>
-Heroku: Host up the backend
+______________________________________________________________________________________________________________________________
+<b>Shoutouts</b><br/>
+I took quite a bit of my code from here:<br/>
+https://medium.com/@learnreact/container-components-c0e67432e005<br/>
 
-<b>Front-End Technogies</b><br/>
-React.js<br/>
-Bootstrap<br/>
-HTML/CSS<br/>
-Flexbox</b><br/>
-Surge: For front end hosting <br/><br/>
-<i>stretch goal</i><br/> Bcrypt: Authentication and sign on<br/><br/>
+I also jacked some code from Lilian:<br/>
+https://github.com/LillianChernin/lilys-library-back-end<br/>
+She also was a big help in getting my backend up on Heroku.<br/>
 
-
+Also, big shout out to Neo, for helping me get my front end deployed.
 
