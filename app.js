@@ -7,6 +7,7 @@ var mongoose     = require('mongoose');
 var CommentController = require('./friendzineapi/controllers/commentController.js');
 var comments     = require('./friendzineapi/routes/comments');
 
+
 let ENV;
 
 try {
@@ -33,7 +34,7 @@ app.use(function(req, res, next) {
 app.use('/api/v1/comment', comments);
 
 
-// mongoose.connect(ENV.MONGODB_URI);
+mongoose.connect(ENV.MONGODB_URI);
 // mongoose.connect(dbConfig.url, {
 //     useMongoClient: true
 // });
