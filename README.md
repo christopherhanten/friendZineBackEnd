@@ -11,7 +11,7 @@ The <b>minimum viable product</b> for this application will consist the Conversa
 
 A stretch goal is to implement sign in / sign out functionality.<br/>
 ______________________________________________________________________________________________________________________________
-<b>PLANS</b><br/><br/>
+<b>Plans</b><br/><br/>
 
 <b>Trello:</b> https://trello.com/b/NWAYqh3P/friendzine <br/><br/>
 <b>User Stories:</b> https://github.com/christopherhanten/friendZineBackEnd/blob/master/userStories.md<<br/><br/>
@@ -22,6 +22,12 @@ https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.pn
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png?raw=true<br/>
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/newss.jpg<br/>
 https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/><br/>
+
+<b>Code</b><br/>
+Backend:<br/>
+https://github.com/christopherhanten/friendZineBackEnd<br/>
+Frontend<br/>
+https://github.com/christopherhanten/friendZineFrontEnd<br/><br/>
 
 ______________________________________________________________________________________________________________________________
 <b>Back-End Technologies</b><br/>
