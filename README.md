@@ -52,3 +52,11 @@ ________________________________________________________________________________
 |POST|/addLink|
 |PUT|/comment|
 |DELETE|/comment|
+
+<b>Shoutouts</b><br/>
+I took quite a bit of my code from here:<br/>
+https://medium.com/@learnreact/container-components-c0e67432e005<br/><br/>
+
+I also jacked some code from Lillian:<br/>
+https://github.com/LillianChernin/lilys-library-back-end<br/>
+
