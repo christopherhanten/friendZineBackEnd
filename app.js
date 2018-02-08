@@ -4,8 +4,8 @@ var cookieParser = require('cookie-parser');
 var bodyParser   = require('body-parser');
 var dbConfig     = require('./config/database.config.js');
 var mongoose     = require('mongoose');
-var Comment      = require('./controllers/friendZine.controller.js');
-var users        = require('./routes/users');
+var CommentController = require('./friendzineapi/controllers/commentController.js');
+var comments     = require('./friendzineapi/routes/comments');
 
 let ENV;
 
@@ -30,6 +30,8 @@ app.use(function(req, res, next) {
   next();
 });
 
+app.use('/api/v1/comment', comments);
+
 
 // mongoose.connect(ENV.MONGODB_URI);
 // mongoose.connect(dbConfig.url, {
@@ -53,11 +55,8 @@ app.use(function(req, res, next) {
 // })
 
 // listen for requests
-// app.listen(process.env.PORT || 3000);
-// //   , function(){
-//     console.log("Server is listening on port 3000");
-// });
+app.listen(process.env.PORT || 8080);
 
-app.use('/api/v1/comment', Comment);
+
 
 module.exports  = app;
