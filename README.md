@@ -1,3 +1,10 @@
+<b>Key Terms:</b><br/>
+<b>User</b>              : Human interatcting with the application<br/>
+<b>Conversation</b>      : The place where all inputs to the application are rendered.<br/>
+<b>Comment</b>           : The basic input type.<br/>
+<b>Comment with link</b> : An input type that allows for a comment w/ a specified output of URL.<br/>
+<b>Get URL</b>           : A way for the User to share the URL of the specific instance of friendZine with others.<br/>
+
 <b>Concept</b><br/><br/>
 <b>friendZine</b> is a Facebook-like application for small groups, with a predetermined membership. The User will log in to share comments, ideas, pictures, links, and what they are listening to, watching or reading. The main component of the application is called the Conversation. It is a feed of all of the inputs given to the app. The User can add to the conversation by directly adding comments in a provided field. They can also click icons for music, reading, tv, and links, to add them to the conversation.<br/><br/>
 
