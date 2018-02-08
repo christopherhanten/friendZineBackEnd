@@ -57,6 +57,6 @@ ________________________________________________________________________________
 I took quite a bit of my code from here:<br/>
 https://medium.com/@learnreact/container-components-c0e67432e005<br/><br/>
 
-I also jacked some code from Lillian:<br/>
+I also jacked some code from Lilian:<br/>
 https://github.com/LillianChernin/lilys-library-back-end<br/>
 
