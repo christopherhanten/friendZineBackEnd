@@ -55,8 +55,11 @@ ________________________________________________________________________________
 
 <b>Shoutouts</b><br/>
 I took quite a bit of my code from here:<br/>
-https://medium.com/@learnreact/container-components-c0e67432e005<br/><br/>
+https://medium.com/@learnreact/container-components-c0e67432e005<br/>
 
 I also jacked some code from Lilian:<br/>
 https://github.com/LillianChernin/lilys-library-back-end<br/>
+She also was a big help in getting my backend up on Heroku.<br/>
+
+Also, big shout out to Neo, for helping me get my front end deployed.
 
