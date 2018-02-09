@@ -15,7 +15,7 @@ ________________________________________________________________________________
 There are any number of apps like Slack, Hangouts, Zoom or UberConference, or Facebook itself, obviously,  that can handle the functionality that I am offering with friendZine. The difference lies in the idea that we can talk to our friends and family without all of the advertising, without of of the interest tracking. With friendZine you have a place to go to simply communicate with those you care about. This has lead to the tagline: "Taking Our Network Back."<br/><br/>
 
 <b>Target User</b><br/>
-The target user for this application is someone who already uses other social media platforms as a way to communicate with thir friends and family, but have grown tired of all of the advertising pushed upon them and the tracking on their traffic. They want to go back to a simpler time in social networking. This app can be used by children to communicate with theiur families who haven't yet let them have other social media experiences. It can also be easily understood and used by members of the silver communitiy who do not have the capability, or desire, to engage in the more common social media outlets.<br/><br/> 
+The target user for this application is someone who already uses other social media platforms as a way to communicate with thir friends and family, but have grown tired of all of the advertising pushed upon them and the tracking on their traffic. They want to go back to a simpler time in social networking. This app can be used by children to communicate with theiur families who haven't yet let them have other social media experiences. It can also be easily understood and used by members of the silver communitiy who do not have the capability, or desire, to engage in the more common social media outlets.<br/><br/>
 
 The <b>minimum viable product</b> for this application will consist the Conversation, a comment text field, complete with submit button, a music button, a link button, a menu icon, and a sign out button.<br/><br/>
 
@@ -78,5 +78,8 @@ I also jacked some code from Lilian:<br/>
 https://github.com/LillianChernin/lilys-library-back-end<br/>
 She also was a big help in getting my backend up on Heroku.<br/>
 
-Also, big shout out to Neo, for helping me get my front end deployed.
+Scott helped me with Flexbox, Marcy gave me a hand styling.<br/>
+Max had some helpful hints on Flexbox as well.<br/>
+Jake and Marcy broke down a problem that I was having at home, and helped me fix it<br/>
 
+Also, big shout out to Neo, for helping me get my front end deployed.
