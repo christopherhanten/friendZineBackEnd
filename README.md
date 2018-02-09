@@ -26,12 +26,12 @@ ________________________________________________________________________________
 <b>Trello:</b> https://trello.com/b/NWAYqh3P/friendzine <br/><br/>
 <b>User Stories:</b> https://github.com/christopherhanten/friendZineBackEnd/blob/master/userStories.md<<br/><br/>
 <b>Initial and MVP wireframes:</b><br/>
-https://github.com/christopherhanten/friendZineBackEnd/blob/master/wireframes.png?raw=true
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/friendzineapi/images/wireframes.png
 <br/><br/>
 <b>Some pseudocoding and relationship mapping</b><br/>
-https://github.com/christopherhanten/friendZineBackEnd/blob/master/psuedoerd.png?raw=true<br/>
-https://github.com/christopherhanten/friendZineBackEnd/blob/master/newss.jpg<br/>
-https://github.com/christopherhanten/friendZineBackEnd/blob/master/newsss.jpg<br/>
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/friendzineapi/images/psuedoerd.png<br />
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/friendzineapi/images/newsss.jpg<br />
+https://github.com/christopherhanten/friendZineBackEnd/blob/master/friendzineapi/images/newss.jpg<br/>
 
 <b>Code</b><br/>
 Backend:<br/>
