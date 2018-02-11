@@ -3,8 +3,8 @@
 <h3>Post Project Presentation To dos.</h3><br/>
 1. Add icons for addMusic and addLink.<br/>
 2. Add hambuger icon with the followj options.<br/>
-      a. Home<br/>
-      b. Add Music to the Conversation<br/>
+     a. Home<br/>
+     b. Add Music to the Conversation<br/>
       c. Add Link to the Conversation<br/>
       d. About the Project<br/>
       e. About Chanten<br/>
