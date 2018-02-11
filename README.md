@@ -2,13 +2,13 @@
 
 <h3>Post Project Presentation To dos.</h3><br/>
 1. Add icons for addMusic and addLink.<br/>
-2. Add hambuger icon with the followj options.<br/>
-     a. Home<br/>
-     b. Add Music to the Conversation<br/>
-      c. Add Link to the Conversation<br/>
-      d. About the Project<br/>
-      e. About Chanten<br/>
-      f. Exit<br/> 
+2. Add hambuger icon with the following options:<br/>
+     ---Home<br/>
+     ---Add Music to the Conversation<br/>
+     ---Add Link to the Conversation<br/>
+     ---About the Project<br/>
+     ---About Chanten<br/>
+     ---Exit<br/>
 3. Stylize with Bootstrap and/or Reactstrap<br/>
 4. Make Comment work.<br/>
 5. Make Conversation work.<br/>
