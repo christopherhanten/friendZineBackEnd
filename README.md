@@ -15,7 +15,8 @@
 6. Make addMusic and AddLink pages and get them routed.<br/>
 7. Make addMusic and AddLink pages add to the Conversation.<br/>
 8. Create, style, route and wire Get URL button up.<br/><br/>      
-____________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
+<br/>
 <b>Key Terms:</b><br/>
 <b>User</b>              : Human interatcting with the application<br/>
 <b>Conversation</b>      : The place where all inputs to the application are rendered.<br/>
