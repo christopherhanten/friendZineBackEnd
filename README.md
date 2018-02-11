@@ -2,7 +2,7 @@
 
 <h3>Post Project Presentation to dos.</h3><br/>
 1. Add icons for addMusic and addLink.<br/>
-2. Add hambuger icon with the following options:<br/>
+2. Add hamburger icon with the following options:<br/>
      ---Home<br/>
      ---Add Music to the Conversation<br/>
      ---Add Link to the Conversation<br/>
