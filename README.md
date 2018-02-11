@@ -17,7 +17,7 @@
 8. Create, style, route and wire getURL button up.<br/><br/>     
 
 Trello board specified to this work:<br/>
-https://trello.com/b/DCXEczCS/friendzine-post-presentation<br/><br/>
+https://trello.com/b/DCXEczCS/friendzine-post-presentation<br/>
 
 __________________________________________________________________________________________________________________________
 <br/>
