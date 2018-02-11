@@ -8,7 +8,7 @@
       c. Add Link to the Conversation<br/>
       d. About the Project<br/>
       e. About Chanten<br/>
-      f. Exit<br/>
+      f. Exit<br/> 
 3. Stylize with Bootstrap and/or Reactstrap<br/>
 4. Make Comment work.<br/>
 5. Make Conversation work.<br/>
