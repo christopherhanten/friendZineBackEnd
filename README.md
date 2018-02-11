@@ -1,5 +1,21 @@
 <h1>friendZine</h1>
 
+<h3>Post Project Presentation To dos.</h3><br/>
+1. Add icons for addMusic and addLink.<br/>
+2. Add hambuger icon with the followj options.<br/>
+      a. Home<br/>
+      b. Add Music to the Conversation<br/>
+      c. Add Link to the Conversation<br/>
+      d. About the Project<br/>
+      e. About Chanten<br/>
+      f. Exit<br/>
+3. Stylize with Bootstrap and/or Reactstrap<br/>
+4. Make Comment work.<br/>
+5. Make Conversation work.<br/>
+6. Make addMusic and AddLink pages and get them routed.<br/>
+7. Make addMusic and AddLink pages add to the Conversation.<br/>
+8. Create, style, route and wire Get URL button up.<br/><br/>      
+
 <b>Key Terms:</b><br/>
 <b>User</b>              : Human interatcting with the application<br/>
 <b>Conversation</b>      : The place where all inputs to the application are rendered.<br/>
