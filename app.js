@@ -56,7 +56,7 @@ mongoose.connect(ENV.MONGODB_URI);
 // })
 
 // listen for requests
-app.listen(process.env.PORT || 8080);
+app.listen(process.env.PORT || 8000);
 
 
 
